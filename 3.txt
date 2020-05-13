@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 jixu shiyan
 master xiugai
+=======
+jixu shaaa
+>>>>>>> dev
 
